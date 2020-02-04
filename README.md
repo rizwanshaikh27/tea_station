@@ -1,2 +1,2 @@
-# tea_station
+# Tea_station
 Respposive site tea station
